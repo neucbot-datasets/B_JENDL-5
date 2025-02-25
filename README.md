@@ -1,2 +1,2 @@
 # B_JENDL-5
-Contains JENDL-5 cross sections and evaluated from JENDL-5 differential cross sections for (a,n) reaction (partial reactions among them)) for Boron isotopes: B10 including data for partial reactions (a,n0÷54), and B11 including data for partial reactions (a,n0÷54)
+Contains JENDL-5 cross sections and evaluated from JENDL-5 differential cross sections for $(\alpha,n)$ reaction (partial reactions among them) for Boron isotopes: $^{10}\text{B}$ including data for partial reactions $(\alpha,n_{0÷4})$, and $^{11}\text{B}$ including data for partial reactions $(\alpha,n_{0÷4})$
